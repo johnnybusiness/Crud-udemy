@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Gestor.API",
+    "\\Gestor.API\\Controllers",
+    "\\Gestor.API\\DataModels",
+    "\\Gestor.API\\Repositories"
+  ],
+  "SelectedNode": "\\Gestor.API\\Controllers\\GaleriaController.cs",
+  "PreviewInSolutionExplorer": false
+}
